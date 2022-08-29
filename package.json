@@ -88,7 +88,7 @@
         "mysql2": "^2.2.5",
         "node-docker-api": "^1.1.22",
         "node-emoji": "^1.10.0",
-        "node-nlp": "^4.22.1",
+        "node-nlp": "^4.24.0",
         "randomstring": "^1.2.1",
         "smtp-server": "^3.9.0"
     },
